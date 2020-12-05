@@ -1,3 +1,3 @@
 # Calculo
 
-##Practicas de calculo en Octave
+Practicas de calculo en Octave
